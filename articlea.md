@@ -1,5 +1,6 @@
 # Python
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
+![](https://www.python.org/static/img/python-logo@2x.png)
 ## Why python is Popular
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
 - **Easy to learn:** Python has a simple, easy-to-read syntax that is perfect for beginners. The language is designed to be intuitive and easy to understand, so even those with no programming experience can start coding quickly.
@@ -18,12 +19,12 @@ To get started with Python, you will need to download and install the Python sof
 To write code in Python, you can use any text editor or integrated development environment (IDE).Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
 ## Python Libraries
 Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
-|**Library** |**Description**                                          |
-|:-----------|:--------------------------------------------------------|
-|NumPy       |A library for working with arrays and matrices.          |
-|Pandas      |A library for working with data frames and data analysis.|
-|Matplotlib  |A library for creating visualizations and plots.         |
-|Scikit-learn|A library for machine learning and data mining.          |
+|**Library**     |**Description**                                          |
+|:---------------|:--------------------------------------------------------|
+|**NumPy**       |A library for working with arrays and matrices.          |
+|**Pandas**      |A library for working with data frames and data analysis.|
+|**Matplotlib**  |A library for creating visualizations and plots.         |
+|**Scikit-learn**|A library for machine learning and data mining.          |
 ## Python functions
 Python functions are blocks of code that can be reused multiple times. A function is defined using the `def` keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called.
 For example, the following code defines a function called greet that prints a message:
@@ -33,7 +34,7 @@ def greet(name):
 greet("John")
 ```
 When the code is run, it will print "Hello, John".
-## Built-in Functions
+### Built-in Functions
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
 |**Function**|**Description**                                                            |
 |:-----------|:--------------------------------------------------------------------------|
@@ -51,4 +52,5 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 Here are some helpful resources for learning more about Python:
 - [Python.org](https://www.python.org/) - The official website for Python, with a wealth of information and resources for learning the language.
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - A free online book that provides a comprehensive introduction.
+***
 *Arcticle content is generated using ChatGPT.*
